@@ -31,7 +31,7 @@ Acredito que o conhecimento cresce quando é compartilhado. Por isso, busco apre
     <img
       alt="Seguidores"
       title="Meus seguidores"
-      src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=1F6FEB&label=SEGUIDORES"
+      src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=8957E5&label=SEGUIDORES"
     />
   </a>
 </p>
