@@ -26,12 +26,11 @@ Acredito que o conhecimento cresce quando é compartilhado. Por isso, busco apre
       title="Minhas estrelas"
       src="https://img.shields.io/badge/ESTRELAS-2EA043?style=for-the-badge&logo=github&logoColor=white"
     />
-  </a>
   <a href="https://github.com/GabrielRL-dev?tab=followers">
   <img
     alt="Seguidores"
     title="Meus seguidores"
-    src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=&label=SEGUIDORES"
+    src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=FFCC00&labelColor=FFCC00&label=SEGUIDORES"
   />
 </a>
 </p>
