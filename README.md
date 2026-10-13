@@ -28,12 +28,12 @@ Acredito que o conhecimento cresce quando é compartilhado. Por isso, busco apre
     />
   </a>
   <a href="https://github.com/GabrielRL-dev?tab=followers">
-    <img
-      alt="Seguidores"
-      title="Meus seguidores"
-      src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=8957E5&label=SEGUIDORES"
-    />
-  </a>
+  <img
+    alt="Seguidores"
+    title="Meus seguidores"
+    src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=&label=SEGUIDORES"
+  />
+</a>
 </p>
 
 <br/>
