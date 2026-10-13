@@ -1,3 +1,13 @@
+<p align="center">
+  <img
+    src="./banner-minecraft.png"
+    alt="Banner Minecraft de GabrielRL"
+    width="100%"
+  />
+</p>
+
+<br/>
+<br/>
 # 🧑🏻‍💻 Gabriel Rodrigues 
 
 **Desenvolvedor FullStack**
