@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./banner-minecraft"
+    src="banner-minecraft"
     alt="Banner Minecraft de GabrielRL"
     width="100%"
   />
