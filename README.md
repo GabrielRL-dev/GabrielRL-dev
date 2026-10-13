@@ -74,7 +74,7 @@ Acredito que o conhecimento cresce quando é compartilhado. Por isso, busco apre
   <i>🚀 Sempre aprendendo, praticando e evoluindo na tecnologia.</i>
 </p>
 
----
+
 
 
 ##
