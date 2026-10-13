@@ -78,6 +78,10 @@ Acredito que o conhecimento cresce quando é compartilhado. Por isso, busco apre
 <br/>
 <br/>
 
-![Snake animation](https://github.com/GabrielRL-dev/GabrielRL-dev/blob/output/github-contribution-grid-snake.svg)
+##
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GabrielRL-dev&repo=GabrielRL-dev&theme=react)](https://github.com/GabrielRL-dev/GabrielRL-dev)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GabrielRL-dev/GabrielRL-dev/output/snake.svg" alt="Snake animation" />
+
+</div>
