@@ -16,22 +16,22 @@ Acredito que o conhecimento cresce quando é compartilhado. Por isso, busco apre
   <a href="https://github.com/GabrielRL-dev?tab=repositories">
     <img
       alt="Forks"
-      title="Forks dos meus projetos"
-      src="https://img.shields.io/github/forks/GabrielRL-dev/REPOSITORIO?style=for-the-badge&color=8957e5&label=Forks"
+      title="Meus repositórios"
+      src="https://img.shields.io/badge/FORKS-8957E5?style=for-the-badge&logo=git&logoColor=white"
     />
   </a>
   <a href="https://github.com/GabrielRL-dev?tab=repositories&sort=stargazers">
     <img
       alt="Estrelas"
-      title="Estrelas dos meus projetos"
-      src="https://img.shields.io/github/stars/GabrielRL-dev?style=for-the-badge&color=2ea043&label=Estrelas"
+      title="Minhas estrelas"
+      src="https://img.shields.io/badge/ESTRELAS-2EA043?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
   <a href="https://github.com/GabrielRL-dev?tab=followers">
     <img
       alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=1f6feb&label=Seguidores"
+      title="Meus seguidores"
+      src="https://img.shields.io/github/followers/GabrielRL-dev?style=for-the-badge&color=1F6FEB&label=SEGUIDORES"
     />
   </a>
 </p>
